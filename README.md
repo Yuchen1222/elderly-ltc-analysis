@@ -220,7 +220,7 @@ Render 免費方案在閒置後會進入休眠，首次喚醒需 30–60 秒冷�
 
 <div align="center">
 
-Made with ❤️ for **Promenade of Data Science 2025**
+**Promenade of Data Science 2025**  
 Institute of Statistical Science, Academia Sinica
 
 </div>

@@ -1,9 +1,15 @@
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 .DS_Store
 .env
 venv/
 .venv/
+ENV/
 *.egg-info/
 .ipynb_checkpoints/
+.ruff_cache/
+.mypy_cache/
+build/
+dist/
+.streamlit/secrets.toml
